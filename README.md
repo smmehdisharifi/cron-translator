@@ -44,6 +44,7 @@ The following locales are currently supported. Feel free to PR more locales if y
 - `de` — German
 - `en` — English
 - `es` — Spanish
+- `fa` — Farsi
 - `fr` — French
 - `hi` — Hindi
 - `lv` — Latvian
